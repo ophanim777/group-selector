@@ -4,6 +4,16 @@
 
 .yes, .no {
     border-style: solid;
+    border-color: grey;
     font-size: 28px;
     font-family: helvetica, "times new roman", sans-serif;
+}
+
+p.yes {
+    color: white;
+    background-color: black;
+}
+
+p.no {
+    background-color: yellow;
 }
