@@ -1,7 +1,3 @@
-* {
-    display: inline-block;
-}
-
 .yes, .no {
     border-style: solid;
     border-color: grey;
@@ -9,11 +5,11 @@
     font-family: helvetica, "times new roman", sans-serif;
 }
 
-p.yes {
+.yes {
     color: white;
     background-color: black;
 }
 
-p.no {
+.no {
     background-color: yellow;
 }
